@@ -16,6 +16,8 @@ Cyd Harrell
 
 ### Summary
 
+![](https://pbs.twimg.com/media/EIdKb7JXsAIRKIp.jpg)
+
 Cyd will tell stories of partnering with public servants to shape government experiences that honor people's capabilities and human dignity. She will also review the best ways to foster trust with institutional partners who face difficult design decisions, as well as what it takes to support design practices in challenging environments.
 
 ### Bio
@@ -26,7 +28,9 @@ Cyd strives to merge a geek’s enthusiasm for the digital with a humane sense o
 
 Previously, Cyd was the VP of Research for SF-based UX design firm Bolt|Peters until June 2012, when Facebook acquired the company. While there, she helped clients such as Sony, Volkswagen, and Rdio to conduct remote research and real-time usability studies. In the early 2000s, she led desktop experience and design standards groups at Charles Schwab.
 
-For more info, you can follow Cyd on on Twitter @cydharrell
+### Slides, references, and other links
+
+- <https://twitter.com/evalottchen/status/1191002476478181377>
 
 
 ## Every Second Counts: Product Design for the Front Lines of Gaza
@@ -40,6 +44,8 @@ Dr. Tarek Loubani
 
 ### Summary
 
+![](https://pbs.twimg.com/media/EIdLE1bWsAAdUws.jpg:large)
+
 Medical devices are used on people sliding toward health disaster and have tremendous potential to help — and also to harm. Small design decisions made during the engineering, packaging, and distribution of these devices can unexpectedly tip the scales from one side to the other.
 
 Emergency physician Dr. Tarek Loubani will discuss these challenges through his work with the Glia Project. Glia uses a free/open-access process to create high-quality and low-cost medical hardware. From design to deployment, he’ll deconstruct the failures of tourniquets and other life-saving devices as they’re used in one of the harshest environments imaginable: the Gaza Strip.
@@ -49,6 +55,10 @@ Emergency physician Dr. Tarek Loubani will discuss these challenges through his 
 Tarek Loubani is an emergency physician at London Health Sciences Centre (Canada) and Shifa Hospital (Gaza). He is also an associate professor in the Department of Medicine at the University of Western Ontario, where in 2018 he won the annual teaching excellence award from the Ontario Undergraduate Student Alliance.
 
 Tarek is well known in Canada and abroad for his humanitarian work through the Glia Project. The Glia team designs high-quality, low-cost, open source medical hardware that can be manufactured onsite at locations that lack access to resources. Examples include a 3D-printed $3 stethoscope whose performance matches that of the industry’s gold standard, and a tourniquet that functions even better than premium brands that cost over 7 times more. The project is currently creating a pulse oximeter, electrocardiogram, and hemodialysis machine.
+
+### Slides, references, and other links
+
+- <https://twitter.com/evalottchen/status/1191003180336918528> 
 
 
 ## Visual Literacy & Visual Fluency
@@ -163,6 +173,8 @@ Kim Goodwin
 
 ### Summary
 
+![](https://pbs.twimg.com/media/EIdL54lWkAEzBTd.jpg)
+
 The most critical aspects of a user experience are often left defined outside of the design team, starting with decisions about the revenue model and the definition of success.
 
 And when somebody makes the wrong decision... nobody wants to be featured in yet another news story about technology behaving badly.
@@ -183,6 +195,10 @@ Kim has led design and research projects in healthcare, aviation, retail, commun
 
 As stellar as she is on stage, Kim is also an accomplished wildlife photographer. One of her Instagram accounts (kim.goodwin) showcases some of her most breathtaking nature and wildlife photos, mostly taken in places with no internet access.
 
+### Slides, references, and other links
+
+- <https://twitter.com/evalottchen/status/1191004091272585218>
+
 
 ## Stop Solving Problems
 
@@ -195,6 +211,8 @@ Steve Portigal
 
 ### Summary
 
+![](https://pbs.twimg.com/media/EIibqB-W4AA-6cw.jpg:large)
+
 The old maxim says we should “Find a need and fill it;” while at a one level that is certainly true, even in this era of fetishized disruption, organizations seem to easily fall in love with the idea of being in the problem solving business. Steve will review a number of different mindsets for creating products and services, consider their benefits and risks, and challenge you to go beyond a fixing mentality.
 
 ### Bio
@@ -204,6 +222,10 @@ Steve Portigal helps companies to think and act strategically when innovating wi
 In the past 20+ years Steve has interviewed families eating breakfast, rock musicians, credit-default swap traders, and radiologists. His work has informed the development of music gear, wine packaging, medical information systems, corporate intranets, videoconferencing systems, and iPod accessories. He is a fellow Canadian (he has a graduate degree in HCI from the University of Guelph) making his 3rd appearance at CanUX events, and is an avid photographer who has a Museum of Foreign Groceries in his home.
 
 Steve was also featured in Business Week, the New York Times, the Boston Globe and the San Francisco Chronicle. Way back, Steve also built one of the first online communities (Undercover, a Rolling Stones fan group) in 1992, nurturing it from a time when the Internet was an underground academic technology through to today, as part of a global info-infrastructure.
+
+### Slides, references, and other links
+
+- <https://twitter.com/evalottchen/status/1191373252687466498>
 
 
 ## Morphing Matter as Both Intelligent Medium and Media
@@ -233,6 +255,11 @@ She gained her PhD at MIT Media Lab, where she combined biological and engineeri
 
 Before coming to the US, she had been deeply involved in her local design and manufacturing industry, both as a design consultant and entrepreneur. She has won numerous industrial design awards including Red Dot Award and iF Design Award. She also has a BS, MFA, Art and Design from Zhejiang University, China.
 
+### Slides, references, and other links
+
+- <https://twitter.com/cydharrell/status/1191018685810520067>
+- <https://twitter.com/brenna_613/status/1191023822192943106>
+
 
 ## Mixed Reality Design Framework
 
@@ -244,6 +271,8 @@ Alastair Somerville
 - <https://canux.io/alastair-somerville/>
 
 ### Summary
+
+![](https://pbs.twimg.com/media/EIicoXxXUAAmPeC.jpg:large)
 
 Using ideas from past cognitive accessibility projects, and AR and VR design, this talk is about using human-centered design to develop tools that flex around the shifting worlds of experience design. Using personal perception and perspectives, we can map and understand how we shift between realities, between products, now, and into the future.
 
@@ -259,6 +288,7 @@ Previously, he has worked with 3D printing and novel tactile printing systems on
 
 - [Slides](https://noti.st/alastairsomerville/STo7hk/mixed-reality-frameworks#sVErDTZ)
 - [Slides (PDF)](https://www.dropbox.com/s/kvcse2tdbn17835/Mixed%20Reality%20Framework%20CanUX%202019.pdf)
+- <https://twitter.com/evalottchen/status/1191374323451346944>
 
 
 ## Designing an inclusive government drug information service for young adults
@@ -271,6 +301,8 @@ Emma Howell
 - <https://canux.io/emma-howell/>
 
 ### Summary
+
+![](https://pbs.twimg.com/media/EIidTWOWoAYEtcN.jpg)
 
 Talk to FRANK is a government service that provides unbiased information about street drugs to young adults. The 10 year old site came to us bloated with FAQs, stories from visitors and news articles. They were trying to keep up to date with new substances and information entering the drugs scene but were creating a sense of disorientation and confusion on the site. Awareness and use of FRANK was declining as the once loyal audience were getting older and a very modest marketing budget made advertising challenging. FRANK was jostling with information from the likes of Youtube, Vice and Pill Reports.
 
@@ -288,9 +320,9 @@ She is particularly passionate about pushing awareness of inclusive design in al
 
 ### Slides, references, and other links
 
-![](https://pbs.twimg.com/media/EIidTWOWoAYEtcN.jpg)
-
 - <https://twitter.com/evalottchen/status/1191375063431491584>
+- <https://twitter.com/cydharrell/status/1191062833192165377>
+- <https://twitter.com/cydharrell/status/1191062290377924609>
 
 
 ## Wild Design for Living in the Wild
@@ -304,6 +336,8 @@ Bill Buxton
 - <https://canux.io/bill-buxton/>
 
 ### Summary
+
+![](https://pbs.twimg.com/media/EIieKuHWsAAaJ-0.jpg)
 
 In this talk, renowned Canadian designer Bill Buxton will reflect on the important of "situated intelligence."
 
@@ -326,3 +360,7 @@ Between 1987 and 1989, Bill lived in Cambridge England, helping establish a new 
 In the fall of 2004, he became a part-time instructor in the Department of Industrial Design at the Ontario College of Art and Design. In 2004/05 he was also Visiting Professor at the Knowledge Media Design Institute (KMDI) at the University of Toronto.
 
 Outside of work, Bill loves the outdoors. He is especially passionate about mountains, including skiing, climbing, and touring. This interest extends to the written word. He has contributed to the literature on mountain history and exploration, is an avid climbing and mountaineering bibliophile, and was on the jury of the 2005 Banff Mountain Book Festival. He is an accomplished equestrian, an avid cyclist, and active in kayaking, canoeing, and windsurfing.
+
+### Slides, references, and other links
+
+- <https://twitter.com/evalottchen/status/1191376013483290625>
