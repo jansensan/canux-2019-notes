@@ -2,6 +2,7 @@
 
 - <https://canux.io/>
 - <https://canux.io/program/>
+- <https://twitter.com/CanUXConf>
 
 
 ## UX for Institutions: This is How We Win the Time War
@@ -15,7 +16,7 @@ Cyd Harrell
 
 ### Summary
 
-TBC
+Cyd will tell stories of partnering with public servants to shape government experiences that honor people's capabilities and human dignity. She will also review the best ways to foster trust with institutional partners who face difficult design decisions, as well as what it takes to support design practices in challenging environments.
 
 ### Bio
 
@@ -138,7 +139,7 @@ Amy Ross
 
 ### Summary
 
-TBC
+Join NASA Space Suit Engineer Amy Ross as she separates fact from fiction through some fascinating insights on what it takes to conduct qualitative research for designing space suits event when there is no scientific method that can be tailored perfectly for this context.
 
 ### Bio
 
@@ -162,7 +163,13 @@ Kim Goodwin
 
 ### Summary
 
-TBC
+The most critical aspects of a user experience are often left defined outside of the design team, starting with decisions about the revenue model and the definition of success.
+
+And when somebody makes the wrong decision... nobody wants to be featured in yet another news story about technology behaving badly.
+
+And yet, most design teams invest a lot more in UI design systems than they do in enabling better UX decisions across the organization.
+
+Kim will share several models that may help your team rethink their approach.
 
 ### Bio
 
@@ -238,7 +245,7 @@ Alastair Somerville
 
 ### Summary
 
-TBC
+Using ideas from past cognitive accessibility projects, and AR and VR design, this talk is about using human-centered design to develop tools that flex around the shifting worlds of experience design. Using personal perception and perspectives, we can map and understand how we shift between realities, between products, now, and into the future.
 
 ### Bio
 
@@ -298,7 +305,11 @@ Bill Buxton
 
 ### Summary
 
-TBC
+In this talk, renowned Canadian designer Bill Buxton will reflect on the important of "situated intelligence."
+
+In the wild, places are transitory and so we ask: how can we connect these experiences of going from out home to our mode of transportation, to work, and other places?
+
+Currently, the problem is that these experiences are siloed by separate products and services that do not adequatly serve a human's contiuous interaction.
 
 ### Bio
 
