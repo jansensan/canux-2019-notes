@@ -138,6 +138,10 @@ Farai spent the last 14 years helping design and build products and teams in the
 
 An interesting tidbit about Farai is the he was originally studying to be a doctor, but he didn’t get the grades. In our opinion, that’s medicine’s loss. And who knows, maybe one day he’ll become a Doctor of Design. He also has an appreciation for words (irrespective of the language), is a fan of township jazz and nerdy hip-hop, and likes the number 127.
 
+### Slides, references, and other links
+
+- <https://twitter.com/NyreeCostello/status/1191200976302043136>
+
 
 ## Space Suit User Experience
 
@@ -198,6 +202,7 @@ As stellar as she is on stage, Kim is also an accomplished wildlife photographer
 ### Slides, references, and other links
 
 - <https://twitter.com/evalottchen/status/1191004091272585218>
+- <https://twitter.com/brenna_613/status/1190738082175311872>
 
 
 ## Stop Solving Problems
@@ -289,6 +294,7 @@ Previously, he has worked with 3D printing and novel tactile printing systems on
 - [Slides](https://noti.st/alastairsomerville/STo7hk/mixed-reality-frameworks#sVErDTZ)
 - [Slides (PDF)](https://www.dropbox.com/s/kvcse2tdbn17835/Mixed%20Reality%20Framework%20CanUX%202019.pdf)
 - <https://twitter.com/evalottchen/status/1191374323451346944>
+- <https://twitter.com/Acuity_Design/status/1191336348256538625>
 
 
 ## Designing an inclusive government drug information service for young adults
@@ -323,6 +329,8 @@ She is particularly passionate about pushing awareness of inclusive design in al
 - <https://twitter.com/evalottchen/status/1191375063431491584>
 - <https://twitter.com/cydharrell/status/1191062833192165377>
 - <https://twitter.com/cydharrell/status/1191062290377924609>
+- <https://twitter.com/EricTse_/status/1191069415611260928>
+- <https://twitter.com/Mar_Warrender/status/1191339668014600192>
 
 
 ## Wild Design for Living in the Wild
@@ -364,3 +372,5 @@ Outside of work, Bill loves the outdoors. He is especially passionate about moun
 ### Slides, references, and other links
 
 - <https://twitter.com/evalottchen/status/1191376013483290625>
+- [Microsoft - Guidelines for Human-AI interaction](https://www.microsoft.com/en-us/research/project/guidelines-for-human-ai-interaction/)
+- [Microsoft - Guidelines for Human-AI interaction (SIGCHI paper)](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf)
