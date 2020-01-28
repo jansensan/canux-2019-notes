@@ -374,3 +374,9 @@ Outside of work, Bill loves the outdoors. He is especially passionate about moun
 - <https://twitter.com/evalottchen/status/1191376013483290625>
 - [Microsoft - Guidelines for Human-AI interaction](https://www.microsoft.com/en-us/research/project/guidelines-for-human-ai-interaction/)
 - [Microsoft - Guidelines for Human-AI interaction (SIGCHI paper)](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf)
+
+
+
+## Other people writing about the conference
+
+- [Highlights from CANUX 2019, by Andrea F Hill](https://medium.com/@afhill/highlights-from-canux-2019-722e8285ac96)
